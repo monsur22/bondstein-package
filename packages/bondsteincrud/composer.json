@@ -1,0 +1,24 @@
+{
+    "name": "bondstein/crud",
+    "description": "Interview",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bondstein\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "monsur22",
+            "email": "monsurahmedshafiq@mail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "bondstein\\crud\\":"src/"
+        }
+    }
+}
